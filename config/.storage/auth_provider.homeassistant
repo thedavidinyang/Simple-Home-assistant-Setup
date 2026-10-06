@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "auth_provider.homeassistant",
+  "data": {
+    "users": [
+      {
+        "username": "kedool",
+        "password": "JDJiJDEyJHpDNS93a2hsMFAxblJhdldxR0hRSC5zWFpKbWFQNnV3eU4yZThNVU5xVjVKOEp4SVVhb3JX"
+      }
+    ]
+  }
+}

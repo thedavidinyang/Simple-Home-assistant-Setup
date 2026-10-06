@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "kedool",
+        "name": "kedool",
+        "user_id": "487e4b5b6b1c47bfa2f35fa98190fefb",
+        "device_trackers": []
+      }
+    ]
+  }
+}

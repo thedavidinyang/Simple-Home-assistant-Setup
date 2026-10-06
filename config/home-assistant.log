@@ -1,0 +1,4 @@
+2026-10-06 12:04:16.652 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.14/site-packages/rich/segment.py:547: SyntaxWarning: 'return' in a 'finally' block
+  return
+
+2026-10-06 12:07:48.776 WARNING (MainThread) [homeassistant.helpers.entity] Updating state for sun.sun (<class 'homeassistant.components.sun.entity.Sun'>) took 0.602 seconds. Please create a bug report at https://github.com/home-assistant/core/issues?q=is%3Aopen+is%3Aissue+label%3A%22integration%3A+sun%22
